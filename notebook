@@ -1,4 +1,10 @@
+black arch
+
+
+git
 git config --global credential.helper store
+
+arch linux
 sudo pacman -S network-manager-applet
 sudo systemctl enable NetworkManager.service
 
