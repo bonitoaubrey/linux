@@ -1,38 +1,11 @@
-                                    Exercise 00
-
-                                     ft_putchar
-Turn-in directory : ex00/
-Files to turn in : ft_putchar.c
-Allowed functions : write
 
 
+Exercise 00 : ft_print_alphabet
 
-
-  • Write a function that displays the character passed as a parameter.
-
-  • It will be prototyped as follows :
-
-  void ft_putchar(char c);
-
-
-
-
-    To display the character, you must use the texttt write function as follows.
-
-  write(1, &c, 1);
-
-
-
-
-                                          5
-Chapter IV
-
-Exercise 01 : ft_print_alphabet
-
-                                      Exercise 01
+                                      Exercise 00
 
                                   ft_print_alphabet
-Turn-in directory : ex01/
+Turn-in directory : ex00/
 Files to turn in : ft_print_alphabet.c
 Allowed functions : write
 
@@ -52,13 +25,13 @@ Allowed functions : write
                                             6
 Chapter V
 
-Exercise 02 :
+Exercise 01 :
 ft_print_reverse_alphabet
 
-                                        Exercise 02
+                                        Exercise 01
 
                                 ft_print_reverse_alphabet
-Turn-in directory : ex02/
+Turn-in directory : ex01/
 Files to turn in : ft_print_reverse_alphabet.c
 Allowed functions : write
 
@@ -78,12 +51,12 @@ Allowed functions : write
                                               7
 Chapter VI
 
-Exercise 03 : ft_print_numbers
+Exercise 02 : ft_print_numbers
 
-                                    Exercise 03
+                                    Exercise 02
 
                                   ft_print_numbers
-Turn-in directory : ex03/
+Turn-in directory : ex02/
 Files to turn in : ft_print_numbers.c
 Allowed functions : write
 
@@ -102,12 +75,12 @@ Allowed functions : write
                                            8
 Chapter VII
 
-Exercise 04 : ft_is_negative
+Exercise 03 : ft_is_negative
 
-                                      Exercise 04
+                                      Exercise 03
 
                                       ft_is_negative
-Turn-in directory : ex04/
+Turn-in directory : ex03/
 Files to turn in : ft_is_negative.c
 Allowed functions : write
 
@@ -127,12 +100,12 @@ Allowed functions : write
                                              9
 Chapter VIII
 
-Exercise 05 : ft_print_comb
+Exercise 04 : ft_print_comb
 
-                                        Exercise 05
+                                        Exercise 04
 
                                        ft_print_comb
-Turn-in directory : ex05/
+Turn-in directory : ex04/
 Files to turn in : ft_print_comb.c
 Allowed functions : write
 
@@ -162,12 +135,12 @@ Allowed functions : write
                                                 10
 Chapter IX
 
-Exercise 06 : ft_print_comb2
+Exercise 05 : ft_print_comb2
 
-                                        Exercise 06
+                                        Exercise 05
 
                                    ft_print_comb2
-Turn-in directory : ex06/
+Turn-in directory : ex05/
 Files to turn in : ft_print_comb2.c
 Allowed functions : write
 
@@ -193,12 +166,12 @@ Allowed functions : write
                                                 11
 Chapter X
 
-Exercise 07 : ft_putnbr
+Exercise 06 : ft_putnbr
 
-                                  Exercise 07
+                                  Exercise 06
 
                                    ft_putnbr
-Turn-in directory : ex07/
+Turn-in directory : ex06/
 Files to turn in : ft_putnbr.c
 Allowed functions : write
 
@@ -225,12 +198,12 @@ Allowed functions : write
                                            12
 Chapter XI
 
-Exercise 08 : ft_print_combn
+Exercise 07 : ft_print_combn
 
-                                        Exercise 08
+                                        Exercise 07
 
                                    ft_print_combn
-Turn-in directory : ex08/
+Turn-in directory : ex07/
 Files to turn in : ft_print_combn.c
 Allowed functions : write
 

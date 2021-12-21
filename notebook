@@ -8,3 +8,9 @@ arch linux
 sudo pacman -S network-manager-applet
 sudo systemctl enable NetworkManager.service
 
+
+change TTL
+add net.ipv4.ip_default_ttl=65 to /etc/sysctl.conf
+
+Nethack
+sh sys/unix/setup.sh sys/unix/hints/linux && make clean && make install
